@@ -16,6 +16,15 @@ Once setup your heirarchy should look like this.
 
 
 # The PCB
+The PCB is fairly simple. Import a template into kicad to use as a layout tool on where to place the switches. Here is my PCB at the very end after routing and drawing my edge cuts.
+<img width="1163" height="518" alt="image" src="https://github.com/user-attachments/assets/ebe9554c-f015-4f3e-a0c4-0a359e17f9fa" />
+Don't forget to add some customisation like your name!
+
+# The Case 
+I designed the case in Autodesk Fusion, there we're 100% some issues but nothing a bit of time and youtube videos can't fix. I designed the top and then bottom then mirrored and copied them for the other side.
+<img width="1230" height="761" alt="image" src="https://github.com/user-attachments/assets/e0b774a9-76fc-4420-b283-b1bf0d6e1397" />
+
+
 
 
 
