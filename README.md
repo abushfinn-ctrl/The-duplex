@@ -1,5 +1,5 @@
 # The-duplex
-A wireless split keyboard with 42 keys, made in a 3d printed case. Designed and built for HackClub and improved tping erogonomics.
+A wireless split keyboard with 42 keys, made in a 3d printed case. Designed and built for HackClub and improved typing erogonomics.
 
 # The Schematic
 The schematic is split into a left and right side with the root sheet having the mousebites.
