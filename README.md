@@ -16,7 +16,7 @@ Once setup your heirarchy should look like this.
 
 
 # The PCB
-The PCB is fairly simple. Import a template into kicad to use as a layout tool on where to place the switches. Here is my PCB at the very end after routing and drawing my edge cuts.
+The PCB is fairly simple. Import a template into kicad to use as a layout tool on where to place the switches. I used ergogen (https://ergogen.xyz/new) to edit a layout and then important that into Kicad as an image to get roughly lined up. Here is my PCB at the very end after routing and drawing my edge cuts.
 <img width="1163" height="518" alt="image" src="https://github.com/user-attachments/assets/ebe9554c-f015-4f3e-a0c4-0a359e17f9fa" />
 Don't forget to add some customisation like your name!
 
