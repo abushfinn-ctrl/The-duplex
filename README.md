@@ -1,5 +1,9 @@
 # The-duplex
 A wireless split keyboard with 42 keys, made in a 3d printed case. Designed and built for HackClub and improved typing erogonomics. I got a new Macbook lately and my old keyboard was on it's last few breaths, so I decided to make a new keyboard that is also ergonomic. You can use the PCB files to order the PCB from Jlcpcb or your preffered PCB manufacturer. The bill of materials is also provided, look at aliexpress but if the parts are available locally for cheaper then obviously that would work aswell. I printed the case in Clay colour Matte PLA with a layer height of 0.2mm on my Prusa Mk3s+.
+# Finished!
+I finished the project and i've been waiting to be a little bit more free with school to do this journal. I modified the case because it was going to be too thick with the battery inside so I decided to put the battery on top next to the keys. Everything went pretty smoothly I used some heat inserts and double sided tape for the battery. Overall I like it, it looks cool but I'm not sure I really enjoy typing on it. It's not quite the right positions for the keys and it's just off so I can only get 45WPM vs my normal 110WPM. But i learnt a lot and had fun! I added some leather on the bottom so it grips a little better too.
+<img width="3024" height="4032" alt="IMG_3600" src="https://github.com/user-attachments/assets/6162f4fe-4875-44b1-a2f2-51b2bdf347eb" />
+<img width="3024" height="4032" alt="IMG_3599" src="https://github.com/user-attachments/assets/29be9124-21ce-4c77-bdad-0f2e292e18a7" />
 
 # The Schematic
 The schematic is split into a left and right side with the root sheet having the mousebites.
